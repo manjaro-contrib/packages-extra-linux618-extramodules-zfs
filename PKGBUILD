@@ -1,5 +1,5 @@
-# Maintainer: Bernhard Landauer <bernhard@manjaro.org>
 # Maintainer: Philip Müller <philm[at]manjaro[dot]org>
+# Contributor: Bernhard Landauer <bernhard@manjaro.org>
 
 _linuxprefix=linux618
 
